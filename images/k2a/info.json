@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 50,
+    "height" : 120
+  }, {
+    "width" : 99,
+    "height" : 239
+  }, {
+    "width" : 197,
+    "height" : 477
+  }, {
+    "width" : 394,
+    "height" : 953
+  }, {
+    "width" : 788,
+    "height" : 1905
+  }, {
+    "width" : 1575,
+    "height" : 3810
+  } ],
+  "profile" : "level0",
+  "width" : 1575,
+  "id" : "https://chenpoo.github.io/npm.tw.iiif.server/images/k2a",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3810
+}
