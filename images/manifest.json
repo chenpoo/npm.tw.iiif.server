@@ -1,0 +1,67 @@
+{
+  "id" : "https://chenpoo.github.io/npm.tw.iiif.server/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in chenpoo/npm.tw.iiif.server project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 1575,
+    "id" : "https://chenpoo.github.io/npm.tw.iiif.server/images/k2a/canvas/",
+    "label" : {
+      "none" : [ "k2a" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://chenpoo.github.io/npm.tw.iiif.server/images/k2a/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://chenpoo.github.io/npm.tw.iiif.server/images/k2a/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 50,
+              "height" : 120
+            }, {
+              "width" : 99,
+              "height" : 239
+            }, {
+              "width" : 197,
+              "height" : 477
+            }, {
+              "width" : 394,
+              "height" : 953
+            }, {
+              "width" : 788,
+              "height" : 1905
+            }, {
+              "width" : 1575,
+              "height" : 3810
+            } ],
+            "profile" : "level0",
+            "width" : 1575,
+            "id" : "https://chenpoo.github.io/npm.tw.iiif.server/images/k2a",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3810
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1575,
+          "id" : "https://chenpoo.github.io/npm.tw.iiif.server/images/k2a/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 3810
+        },
+        "target" : "https://chenpoo.github.io/npm.tw.iiif.server/images/k2a/canvas/"
+      } ]
+    } ],
+    "height" : 3810
+  } ]
+}
