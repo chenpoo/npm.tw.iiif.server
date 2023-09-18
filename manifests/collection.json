@@ -1,0 +1,13 @@
+{
+  "id" : "https://chenpoo.github.io/npm.tw.iiif.server/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in chenpoo/npm.tw.iiif.server project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://chenpoo.github.io/npm.tw.iiif.server/manifests/manifest2.json",
+    "label" : "K2A"
+  } ]
+}
