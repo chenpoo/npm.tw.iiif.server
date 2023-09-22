@@ -1,0 +1,504 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://127.0.0.1/etu-cn/public/p/manifest/386dd41a-1d72-43db-a5ff-f0dcc175491f/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "zh-Hant": [
+            "北京故宮"
+        ]
+    },
+    "items": [
+        {
+            "id": "http://127.0.0.1/etu-cn/public/p/canvas/22ce9292-706c-4c4c-b313-24105012a855",
+            "type": "Canvas",
+            "label": {
+                "zh-Hant": [
+                    "228102-張珪神龜圖卷"
+                ]
+            },
+            "height": 3298,
+            "width": 21201,
+            "thumbnail": [
+                {
+                "id": "http://127.0.0.1/etu-cn/public/i/c257763a-62cf-46d0-8b64-54a0bd49981f/thumbnail.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 4000
+                }
+            ],
+            "items": [
+                {
+                    "id": "http://127.0.0.1/etu-cn/public/p/annopage/0001",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://127.0.0.1/etu-cn/public/p/anno/0001",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://127.0.0.1/etu-cn/public/i/c257763a-62cf-46d0-8b64-54a0bd49981f.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3298,
+                                "width": 21201
+                            },
+                            "target": "http://127.0.0.1/etu-cn/public/p/canvas/22ce9292-706c-4c4c-b313-24105012a855"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id": "http://127.0.0.1/etu-cn/public/p/canvas/5cc85acc-e1da-429c-9e9b-ee461e299d33",
+            "type": "Canvas",
+            "label": {
+                "zh-Hant": [
+                    "228205-李嵩貨郎圖卷"
+                ]
+            },
+            "height": 3840,
+            "width": 18207,
+            "thumbnail": [
+                {
+                "id": "http://127.0.0.1/etu-cn/public/i/5e7d8590-49c2-4987-ba68-5f2cd65d29c8/thumbnail.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 844,
+                "width": 4000
+                }
+            ],
+            "items": [
+                {
+                    "id": "http://127.0.0.1/etu-cn/public/p/annopage/0001",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://127.0.0.1/etu-cn/public/p/anno/0001",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://127.0.0.1/etu-cn/public/i/5e7d8590-49c2-4987-ba68-5f2cd65d29c8.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3840,
+                                "width": 18207
+                            },
+                            "target": "http://127.0.0.1/etu-cn/public/p/canvas/5cc85acc-e1da-429c-9e9b-ee461e299d33"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id": "http://127.0.0.1/etu-cn/public/p/canvas/ecd1f8df-4418-42ec-b2a4-3bbd1bb717e6",
+            "type": "Canvas",
+            "label": {
+                "zh-Hant": [
+                    "228354-王希孟千里江山圖卷"
+                ]
+            },
+            "height": 1673,
+            "width": 41783,
+            "thumbnail": [
+                {
+                "id": "http://127.0.0.1/etu-cn/public/i/5f71983c-29b6-4b3a-8355-596f99f00371/thumbnail.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 160,
+                "width": 4000
+                }
+            ],
+            "items": [
+                {
+                    "id": "http://127.0.0.1/etu-cn/public/p/annopage/0001",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://127.0.0.1/etu-cn/public/p/anno/0001",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://127.0.0.1/etu-cn/public/i/5f71983c-29b6-4b3a-8355-596f99f00371.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1673,
+                                "width": 41783
+                            },
+                            "target": "http://127.0.0.1/etu-cn/public/p/canvas/ecd1f8df-4418-42ec-b2a4-3bbd1bb717e6"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id": "http://127.0.0.1/etu-cn/public/p/canvas/25e9b837-2b35-4919-b69d-d79913688fb7",
+            "type": "Canvas",
+            "label": {
+                "zh-Hant": [
+                    "228988-朱瞻基行樂圖卷"
+                ]
+            },
+            "height": 1952,
+            "width": 35816,
+            "thumbnail": [
+                {
+                "id": "http://127.0.0.1/etu-cn/public/i/ddacf7c1-ca2e-4b48-b2c4-3ec6668c285d/thumbnail.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 218,
+                "width": 4000
+                }
+            ],
+            "items": [
+                {
+                    "id": "http://127.0.0.1/etu-cn/public/p/annopage/0001",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://127.0.0.1/etu-cn/public/p/anno/0001",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://127.0.0.1/etu-cn/public/i/ddacf7c1-ca2e-4b48-b2c4-3ec6668c285d.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1952,
+                                "width": 35816
+                            },
+                            "target": "http://127.0.0.1/etu-cn/public/p/canvas/25e9b837-2b35-4919-b69d-d79913688fb7"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id": "http://127.0.0.1/etu-cn/public/p/canvas/c3f47c97-7aab-434b-beac-02f585fcc397",
+            "type": "Canvas",
+            "label": {
+                "zh-Hant": [
+                    "230537-董其昌行書宋之問詩卷"
+                ]
+            },
+            "height": 2031,
+            "width": 34420,
+            "thumbnail": [
+                {
+                "id": "http://127.0.0.1/etu-cn/public/i/c5f21e2d-01bb-4ae1-848a-37ab4919ebdc/thumbnail.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 236,
+                "width": 4000
+                }
+            ],
+            "items": [
+                {
+                    "id": "http://127.0.0.1/etu-cn/public/p/annopage/0001",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://127.0.0.1/etu-cn/public/p/anno/0001",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://127.0.0.1/etu-cn/public/i/c5f21e2d-01bb-4ae1-848a-37ab4919ebdc.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2031,
+                                "width": 34420
+                            },
+                            "target": "http://127.0.0.1/etu-cn/public/p/canvas/c3f47c97-7aab-434b-beac-02f585fcc397"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id": "http://127.0.0.1/etu-cn/public/p/canvas/33bd168b-cbe5-4510-a611-ee146a67139d",
+            "type": "Canvas",
+            "label": {
+                "zh-Hant": [
+                    "231617-柳蔭羣盲圖軸"
+                ]
+            },
+            "height": 8533,
+            "width": 8193,
+            "thumbnail": [
+                {
+                "id": "http://127.0.0.1/etu-cn/public/i/9e93da33-5933-4b9f-952d-01478f819cd3/thumbnail.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 960
+                }
+            ],
+            "items": [
+                {
+                    "id": "http://127.0.0.1/etu-cn/public/p/annopage/0001",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://127.0.0.1/etu-cn/public/p/anno/0001",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://127.0.0.1/etu-cn/public/i/9e93da33-5933-4b9f-952d-01478f819cd3.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 8533,
+                                "width": 8193
+                            },
+                            "target": "http://127.0.0.1/etu-cn/public/p/canvas/33bd168b-cbe5-4510-a611-ee146a67139d"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id": "http://127.0.0.1/etu-cn/public/p/canvas/5a0f8101-0ae7-402a-8962-899382dedac8",
+            "type": "Canvas",
+            "label": {
+                "zh-Hant": [
+                    "231728-絲綸圖軸"
+                ]
+            },
+            "height": 13263,
+            "width": 5271,
+            "thumbnail": [
+                {
+                "id": "http://127.0.0.1/etu-cn/public/i/4605bd75-3a43-428e-93ec-8e1c24dcd626/thumbnail.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 397
+                }
+            ],
+            "items": [
+                {
+                    "id": "http://127.0.0.1/etu-cn/public/p/annopage/0001",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://127.0.0.1/etu-cn/public/p/anno/0001",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://127.0.0.1/etu-cn/public/i/4605bd75-3a43-428e-93ec-8e1c24dcd626.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 13263,
+                                "width": 5271
+                            },
+                            "target": "http://127.0.0.1/etu-cn/public/p/canvas/5a0f8101-0ae7-402a-8962-899382dedac8"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id": "http://127.0.0.1/etu-cn/public/p/canvas/27e46f15-e014-4d16-b4ac-2e90b45e7bbd",
+            "type": "Canvas",
+            "label": {
+                "zh-Hant": [
+                    "234371-文嘉山水圖卷"
+                ]
+            },
+            "height": 1837,
+            "width": 38054,
+            "thumbnail": [
+                {
+                "id": "http://127.0.0.1/etu-cn/public/i/e2824e5a-e5a1-42cb-9066-05b9c66b33a2/thumbnail.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 193,
+                "width": 4000
+                }
+            ],
+            "items": [
+                {
+                    "id": "http://127.0.0.1/etu-cn/public/p/annopage/0001",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://127.0.0.1/etu-cn/public/p/anno/0001",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://127.0.0.1/etu-cn/public/i/e2824e5a-e5a1-42cb-9066-05b9c66b33a2.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1837,
+                                "width": 38054
+                            },
+                            "target": "http://127.0.0.1/etu-cn/public/p/canvas/27e46f15-e014-4d16-b4ac-2e90b45e7bbd"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id": "http://127.0.0.1/etu-cn/public/p/canvas/ba59db08-9d8b-4412-80b6-9cc3dcbb3216",
+            "type": "Canvas",
+            "label": {
+                "zh-Hant": [
+                    "234372-文伯仁南溪草堂圖卷"
+                ]
+            },
+            "height": 1829,
+            "width": 38225,
+            "thumbnail": [
+                {
+                "id": "http://127.0.0.1/etu-cn/public/i/33aa0599-5cd6-4984-8de9-1dbc45d87aee/thumbnail.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 191,
+                "width": 4000
+                }
+            ],
+            "items": [
+                {
+                    "id": "http://127.0.0.1/etu-cn/public/p/annopage/0001",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://127.0.0.1/etu-cn/public/p/anno/0001",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://127.0.0.1/etu-cn/public/i/33aa0599-5cd6-4984-8de9-1dbc45d87aee.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1829,
+                                "width": 38225
+                            },
+                            "target": "http://127.0.0.1/etu-cn/public/p/canvas/ba59db08-9d8b-4412-80b6-9cc3dcbb3216"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id": "http://127.0.0.1/etu-cn/public/p/canvas/c8d40127-0a86-4529-9f8a-a730fb8dae15",
+            "type": "Canvas",
+            "label": {
+                "zh-Hant": [
+                    "245897-趙孟頫行書臨定武蘭亭序卷"
+                ]
+            },
+            "height": 1978,
+            "width": 35348,
+            "thumbnail": [
+                {
+                "id": "http://127.0.0.1/etu-cn/public/i/42006951-8aef-4066-b277-89e4a032ad74/thumbnail.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 224,
+                "width": 4000
+                }
+            ],
+            "items": [
+                {
+                    "id": "http://127.0.0.1/etu-cn/public/p/annopage/0001",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://127.0.0.1/etu-cn/public/p/anno/0001",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://127.0.0.1/etu-cn/public/i/42006951-8aef-4066-b277-89e4a032ad74.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1978,
+                                "width": 35348
+                            },
+                            "target": "http://127.0.0.1/etu-cn/public/p/canvas/c8d40127-0a86-4529-9f8a-a730fb8dae15"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id": "http://127.0.0.1/etu-cn/public/p/canvas/8bae94e1-d57d-4f6a-8a80-73dd1599f774",
+            "type": "Canvas",
+            "label": {
+                "zh-Hant": [
+                    "245996-王希孟千里江山圖卷"
+                ]
+            },
+            "height": 1673,
+            "width": 41783,
+            "thumbnail": [
+                {
+                "id": "http://127.0.0.1/etu-cn/public/i/b39c4743-dd47-403a-ada3-e259fb558d29/thumbnail.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 160,
+                "width": 4000
+                }
+            ],
+            "items": [
+                {
+                    "id": "http://127.0.0.1/etu-cn/public/p/annopage/0001",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://127.0.0.1/etu-cn/public/p/anno/0001",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://127.0.0.1/etu-cn/public/i/b39c4743-dd47-403a-ada3-e259fb558d29.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1673,
+                                "width": 41783
+                            },
+                            "target": "http://127.0.0.1/etu-cn/public/p/canvas/8bae94e1-d57d-4f6a-8a80-73dd1599f774"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id": "http://127.0.0.1/etu-cn/public/p/canvas/79e1b236-f37d-4665-a179-78dd7cefc42e",
+            "type": "Canvas",
+            "label": {
+                "zh-Hant": [
+                    "元 趙孟頫 小楷太上老君說常清靜經"
+                ]
+            },
+            "height": 3208,
+            "width": 17403,
+            "thumbnail": [
+                {
+                "id": "http://127.0.0.1/etu-cn/public/i/00ba4c63-a8e1-4ff0-a4cd-93b8f71d5f1d/thumbnail.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 737,
+                "width": 4000
+                }
+            ],
+            "items": [
+                {
+                    "id": "http://127.0.0.1/etu-cn/public/p/annopage/0001",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://127.0.0.1/etu-cn/public/p/anno/0001",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://127.0.0.1/etu-cn/public/i/00ba4c63-a8e1-4ff0-a4cd-93b8f71d5f1d.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3208,
+                                "width": 17403
+                            },
+                            "target": "http://127.0.0.1/etu-cn/public/p/canvas/79e1b236-f37d-4665-a179-78dd7cefc42e"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
